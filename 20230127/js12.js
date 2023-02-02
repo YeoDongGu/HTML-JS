@@ -1,0 +1,12 @@
+var s = "sdnflksdf";
+var b = true;
+var i = 22;
+var u;
+var n = null;
+var o = new Object();
+alert(typeof s);
+alert(typeof i);
+alert(typeof b);
+alert(typeof u);
+alert(typeof n);
+alert(typeof o);
